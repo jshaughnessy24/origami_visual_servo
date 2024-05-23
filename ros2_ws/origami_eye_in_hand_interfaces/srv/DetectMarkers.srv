@@ -1,7 +1,0 @@
-sensor_msgs/Image color_img
-std_msgs/Float64MultiArray desired_centers
-std_msgs/Float64MultiArray error
-int64 norm
----
-std_msgs/Float64MultiArray markers
-std_msgs/Float64MultiArray desired_centers
