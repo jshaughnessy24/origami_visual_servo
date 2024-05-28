@@ -1,0 +1,98 @@
+rosbag2_bagfile_information:
+  version: 5
+  storage_identifier: sqlite3
+  duration:
+    nanoseconds: 28499589259
+  starting_time:
+    nanoseconds_since_epoch: 1714499529793250307
+  message_count: 3135
+  topics_with_message_count:
+    - topic_metadata:
+        name: end_flag
+        type: std_msgs/msg/Bool
+        serialization_format: cdr
+        offered_qos_profiles: ""
+      message_count: 285
+    - topic_metadata:
+        name: marker_coordinates_image_errors_norm
+        type: std_msgs/msg/Float64
+        serialization_format: cdr
+        offered_qos_profiles: ""
+      message_count: 285
+    - topic_metadata:
+        name: marker_coordinates_image_errors
+        type: std_msgs/msg/Float64MultiArray
+        serialization_format: cdr
+        offered_qos_profiles: ""
+      message_count: 285
+    - topic_metadata:
+        name: xz_cam_desired_velocity
+        type: std_msgs/msg/Float64MultiArray
+        serialization_format: cdr
+        offered_qos_profiles: ""
+      message_count: 285
+    - topic_metadata:
+        name: motor_encoder_counts
+        type: std_msgs/msg/Float64MultiArray
+        serialization_format: cdr
+        offered_qos_profiles: ""
+      message_count: 0
+    - topic_metadata:
+        name: camera_interaction_matrix
+        type: std_msgs/msg/Float64MultiArray
+        serialization_format: cdr
+        offered_qos_profiles: ""
+      message_count: 285
+    - topic_metadata:
+        name: motor_desired_velocities
+        type: std_msgs/msg/Float64MultiArray
+        serialization_format: cdr
+        offered_qos_profiles: ""
+      message_count: 285
+    - topic_metadata:
+        name: robot_jacobian
+        type: std_msgs/msg/Float64MultiArray
+        serialization_format: cdr
+        offered_qos_profiles: ""
+      message_count: 285
+    - topic_metadata:
+        name: motor_velocities
+        type: std_msgs/msg/Float64MultiArray
+        serialization_format: cdr
+        offered_qos_profiles: ""
+      message_count: 0
+    - topic_metadata:
+        name: xz_cam_desired_velocity_norm
+        type: std_msgs/msg/Float64
+        serialization_format: cdr
+        offered_qos_profiles: ""
+      message_count: 285
+    - topic_metadata:
+        name: marker_desired_coordinates
+        type: std_msgs/msg/Float64MultiArray
+        serialization_format: cdr
+        offered_qos_profiles: ""
+      message_count: 286
+    - topic_metadata:
+        name: tendon_lengths
+        type: std_msgs/msg/Float64MultiArray
+        serialization_format: cdr
+        offered_qos_profiles: ""
+      message_count: 283
+    - topic_metadata:
+        name: marker_coordinates
+        type: std_msgs/msg/Float64MultiArray
+        serialization_format: cdr
+        offered_qos_profiles: ""
+      message_count: 286
+  compression_format: ""
+  compression_mode: ""
+  relative_file_paths:
+    - 2024-04-30_13:52:08.987384_0.db3
+  files:
+    - path: 2024-04-30_13:52:08.987384_0.db3
+      starting_time:
+        nanoseconds_since_epoch: 1714499529793250307
+      duration:
+        nanoseconds: 28499589259
+      message_count: 3135

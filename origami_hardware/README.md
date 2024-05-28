@@ -149,8 +149,8 @@ The motor plate without a mount is used throughout the readme.
 
 The camera mounted positions are found below:
 <center>
-    <img src="./images/mounted_camera_pos_1.png" alt="mounted camera pos 1" width="41%"/>
-    <img src="./images/mounted_camera_pos_2.png" alt="mounted camera pos 2" width="50%"/>
+    <img src="./images/mounted_camera_pos_1.png" alt="mounted camera side pos" width="41%"/>
+    <img src="./images/mounted_camera_pos_2.png" alt="mounted camera center pos" width="50%"/>
 </center>
 
 ### Creating a T-slotted framing rail mount

@@ -15,13 +15,6 @@ class VelocityController(Node):
 
     def __init__(self):
         super().__init__('velocity_controller')
-
-        class VS_Mode(Enum):
-            POINT = 1
-            POINT_POINT = 2
-            POINT_ANGLE = 3
-            
-        mode = VS_Mode.POINT_POINT
         
         # publishes desired velocities
         self.publisher_marker_coordinates =         self.create_publisher(Float64MultiArray, 'marker_coordinates', 0)
